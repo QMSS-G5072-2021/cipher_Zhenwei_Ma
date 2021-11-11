@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cipher_zm2383"
-version = "0.1.0"
+version = "0.1.1"
 description = "hw07"
 authors = ["Zhenwei Ma"]
 license = "MIT"
