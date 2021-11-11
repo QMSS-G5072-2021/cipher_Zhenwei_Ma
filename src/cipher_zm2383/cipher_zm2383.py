@@ -1,3 +1,4 @@
+import pandas as pd
 
 def cipher(text, shift, encrypt=True):
     alphabet = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
