@@ -1,6 +1,34 @@
 import pandas as pd
 
+
 def cipher(text, shift, encrypt=True):
+    
+    """
+    Encipher the information.
+    
+    Each letter is replaced by a letter some fixed number of positions down the 
+    alphabet
+
+    Parameters
+    ----------
+    text : a sequence of string.
+    shift : integer.
+    encrypt : boolean.
+
+    Returns
+    -------
+    String
+
+    Examples
+    --------
+    >>> from cipher_zm2383 import cipher_zm2383
+    >>> text = "C'est la vie."
+    >>> shift = 1
+    >>> cipher_zm2383.cipher(a, b)
+    "D'ftu mb wjf."
+    """
+        
+        
     alphabet = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
     new_text = ''
     for c in text:
