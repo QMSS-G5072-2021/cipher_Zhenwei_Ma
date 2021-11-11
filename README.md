@@ -1,6 +1,6 @@
 # cipher_zm2383
 
-hw07
+hm07
 
 ## Installation
 
@@ -18,7 +18,7 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`cipher_zm2383` was created by Zhenwei Ma. It is licensed under the terms of the MIT license.
+`cipher_zm2383` was created by Zhenwei Ma. Zhenwei Ma retains all rights to the source and it may not be reproduced, distributed, or used to create derivative works.
 
 ## Credits
 
